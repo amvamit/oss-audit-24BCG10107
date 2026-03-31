@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Nitin Yadav
+# Author: Amit Kumar Vishwakarma
 # Choice: Firefox
 
 # Command line argument for the log file
